@@ -21,7 +21,7 @@ Este repositorio reúne mis primeras prácticas y proyectos de **aseguramiento d
 ## Proyectos prácticos
 | Proyecto | Actividades | Estado de documentación |
 | --- | --- | --- |
-| [Talento Lab — Registro de usuarios](08-proyecto-final-talento-lab/README.md) | Diseño de 8 casos, carga en Zephyr Essential, criterios de aceptación y preparación del ciclo de ejecución | En desarrollo |
+| [Talento Lab — Registro de usuarios](proyecto-final-talento-lab/README.md) | Diseño de 8 casos, carga en Zephyr Essential, criterios de aceptación y preparación del ciclo de ejecución | En desarrollo |
 | Pruebas de APIs | Peticiones HTTP y validaciones con Postman | Pendiente de publicación |
 | Testing responsive | Revisión en emulación de dispositivos móviles con DevTools | Pendiente de publicación |
 
