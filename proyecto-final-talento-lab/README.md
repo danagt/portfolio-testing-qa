@@ -52,7 +52,6 @@ El proyecto de práctica se encuentra documentado, incluyendo el diseño y ejecu
 Los casos fueron diseñados originalmente con los identificadores TC-001 a TC-008 y posteriormente gestionados en Zephyr Essential. Las ejecuciones finales se documentaron en el proyecto T1PF.
 
 Las evidencias, métricas y conclusiones están disponibles en las carpetas correspondientes de este repositorio.
-> Los identificadores TL-T2 a TL-T9 son referencias del ejercicio en Zephyr. Este documento no afirma que los ocho casos hayan sido ejecutados o aprobados.
 
 
 
