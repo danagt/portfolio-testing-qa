@@ -44,8 +44,6 @@ La decisión final sobre el lanzamiento corresponde a los responsables del proye
 
 ## Evidencia
 
-## Evidencia
-
 ### Matriz de cobertura y riesgo
 
 ![Métricas de cobertura y matriz de riesgo](cobertura.png)
