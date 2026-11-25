@@ -32,14 +32,18 @@ Se diseñaron e importaron **8 casos de prueba** en Zephyr Essential:
 - Google Sheets para matriz de cobertura y riesgo.
 - Chrome DevTools para inspección y pruebas responsive.
 
-## Avance
-- [x] Diseño de casos de prueba.
-- [x] Importación de los ocho casos en Zephyr Essential.
-- [x] Revisión visual de sus pasos y resultados esperados.
-- [x] Preparación del ciclo de ejecución TL-R3 y ambiente QA — Talento Lab.
-- [ ] Completar y documentar la ejecución del ciclo.
-- [ ] Publicar reportes de defectos anonimizados.
-- [ ] Incorporar métricas e informe de cierre.
+## Avance del proyecto
+
+- [x] Análisis de requisitos y criterios de aceptación.
+- [x] Diseño de ocho casos de prueba.
+- [x] Importación y revisión de casos en Zephyr Essential.
+- [x] Ejecución de los ocho casos en el ciclo TL-R1.
+- [x] Documentación de dos defectos.
+- [x] Elaboración de métricas de cobertura y matriz de riesgo.
+- [x] Publicación de evidencias de ejecución.
+- [x] Elaboración del informe final con recomendación NO-GO.
+
+**Estado:** Proyecto de práctica documentado y con informe de cierre.
 
 ## Próximas evidencias
 Se agregarán exportaciones de casos, capturas de ejecución y reportes solo después de verificarlos y ocultar cualquier dato sensible.
