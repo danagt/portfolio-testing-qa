@@ -45,9 +45,13 @@ Se diseñaron e importaron **8 casos de prueba** en Zephyr Essential:
 
 **Estado:** Proyecto de práctica documentado y con informe de cierre.
 
-## Próximas evidencias
-Se agregarán exportaciones de casos, capturas de ejecución y reportes solo después de verificarlos y ocultar cualquier dato sensible.
+## Estado final del proyecto
 
+El proyecto de práctica se encuentra documentado, incluyendo el diseño y ejecución de ocho casos de prueba, dos defectos identificados y el informe de cierre con recomendación NO-GO.
+
+Los casos fueron diseñados originalmente con los identificadores TC-001 a TC-008 y posteriormente gestionados en Zephyr Essential. Las ejecuciones finales se documentaron en el proyecto T1PF.
+
+Las evidencias, métricas y conclusiones están disponibles en las carpetas correspondientes de este repositorio.
 > Los identificadores TL-T2 a TL-T9 son referencias del ejercicio en Zephyr. Este documento no afirma que los ocho casos hayan sido ejecutados o aprobados.
 
 
