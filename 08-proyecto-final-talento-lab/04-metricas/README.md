@@ -44,5 +44,16 @@ La decisión final sobre el lanzamiento corresponde a los responsables del proye
 
 ## Evidencia
 
-- Captura de la pestaña **Cobertura**: pendiente de incorporar en el repositorio, con los datos sensibles revisados.
-- [Evidencias de ejecución de Zephyr](../03-evidencias-zephyr/README.md).
+## Evidencia
+
+### Matriz de cobertura y riesgo
+
+![Métricas de cobertura y matriz de riesgo](cobertura.png)
+
+Captura de la planilla de seguimiento de pruebas funcionales de Talento Lab, elaborada en Google Sheets. Presenta los indicadores de ejecución (100%), aprobación (75%) y fallos (25%), junto con la matriz de riesgo utilizada para evaluar la salida a producción.
+
+La presencia de un defecto de severidad Alta fundamenta la recomendación de **NO-GO**.
+
+### Ejecuciones de prueba
+
+Consultar las [evidencias de ejecución en Zephyr Essential](../03-evidencias-zephyr/README.md).
