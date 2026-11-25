@@ -1,1 +1,50 @@
 
+# Talento Lab — Testing funcional del formulario de registro
+
+## Contexto
+Práctica de testing funcional del formulario de registro de usuarios en Talento Lab, realizada durante la formación en Testing QA de Talento Tech.
+
+**Aplicación bajo prueba:** https://talento-lab-test-web.netlify.app/register
+
+## Objetivo
+Verificar reglas de registro, campos obligatorios, validaciones de contraseña y requisitos de carga del CV, a partir de criterios de aceptación.
+
+## Alcance de los casos diseñados
+Se diseñaron e importaron **8 casos de prueba** en Zephyr Essential:
+
+| Caso | Escenario |
+| --- | --- |
+| TL-T2 | Registro exitoso con datos válidos y CV PDF de 2 MB |
+| TL-T3 | Contraseña de 7 caracteres: límite inferior inválido |
+| TL-T4 | CV PDF de 5,01 MB: tamaño inválido |
+| TL-T5 | Registro con correo ya existente |
+| TL-T6 | Campo Apellido obligatorio vacío |
+| TL-T7 | Contraseña con espacio en blanco |
+| TL-T8 | Registro sin CV adjunto |
+| TL-T9 | CV PDF de exactamente 5,00 MB: límite superior inválido |
+
+**Criterio confirmado por el Product Owner:** el CV debe pesar **estrictamente menos de 5 MB**. Un archivo de exactamente 5,00 MB se debe rechazar.
+
+## Técnicas y herramientas
+- Partición de equivalencia y análisis de valores límite (EP/BVA).
+- Pruebas funcionales positivas y negativas.
+- Jira y Zephyr Essential para casos, ciclos y seguimiento.
+- Google Sheets para matriz de cobertura y riesgo.
+- Chrome DevTools para inspección y pruebas responsive.
+
+## Avance
+- [x] Diseño de casos de prueba.
+- [x] Importación de los ocho casos en Zephyr Essential.
+- [x] Revisión visual de sus pasos y resultados esperados.
+- [x] Preparación del ciclo de ejecución TL-R3 y ambiente QA — Talento Lab.
+- [ ] Completar y documentar la ejecución del ciclo.
+- [ ] Publicar reportes de defectos anonimizados.
+- [ ] Incorporar métricas e informe de cierre.
+
+## Próximas evidencias
+Se agregarán exportaciones de casos, capturas de ejecución y reportes solo después de verificarlos y ocultar cualquier dato sensible.
+
+> Los identificadores TL-T2 a TL-T9 son referencias del ejercicio en Zephyr. Este documento no afirma que los ocho casos hayan sido ejecutados o aprobados.
+
+
+
